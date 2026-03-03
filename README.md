@@ -39,7 +39,7 @@ Client → API → Redis Queue → Worker → Database
 
 ## Running Locally
 
-### 1. Start Redis
+1. Start Redis
 ```bash
 docker run --name redis-server -p 6379:6379 -d redis
 2. Install dependencies
