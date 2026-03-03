@@ -1,3 +1,4 @@
+![CI](https://github.com/TarunMadaraboina-16/invoiceflow/actions/workflows/ci.yml/badge.svg)
 # InvoiceFlow- Asynchronous Invoice Processing System
 
 InvoiceFlow is a scalable backend system built with Node.js, TypeScript, Express, BullMQ, Redis, and Prisma.  
